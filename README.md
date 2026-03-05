@@ -8,6 +8,10 @@ The analysis integrates multiple operational datasets—including subscriptions,
 
 The final output is an executive-style dashboard summarizing the company's revenue health and highlighting actionable areas for improving retention and expansion.
 
+## Executive Dashboard
+
+![Executive Dashboard](visualizations/Dashboard_Screenshot.png)
+
 ---
 
 ## Dataset
