@@ -173,6 +173,6 @@ This project demonstrates how operational, behavioral, and financial SaaS data c
 
 ## Author
 
-Jacob Leischner
-Master of Science in Engineering, Science & Technology Entrepreneurship (ESTEEM)
+Jacob Leischner |
+Master of Science in Engineering, Science & Technology Entrepreneurship (ESTEEM) | 
 University of Notre Dame
